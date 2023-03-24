@@ -1,6 +1,4 @@
 
-setwd("D:/上海科技大学/量化投资/Quantitative Investing Term Project/代码及数据文件更新版/")
-
 data<-read.csv("SSEC_data.csv",header=T)
 
 source('Data_Cleaning_Treatment_Functions.R')
